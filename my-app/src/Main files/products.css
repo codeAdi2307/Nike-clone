@@ -1,0 +1,31 @@
+
+                      /*  Right side waale hai */
+
+/* .right img{
+    width: 200px;
+    height: 200px;  
+}
+.right {
+    position: relative;
+    left: 300px;
+    top: -300px;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    max-width: 33vw;
+    overflow: hidden;
+    flex: 1;
+    margin: 5px;
+} */
+.rightdata img{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
+.mainproducts{
+    position: relative;
+    left: 300px;
+    top: -300px;
+}
+

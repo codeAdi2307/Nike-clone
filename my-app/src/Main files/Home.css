@@ -1,0 +1,243 @@
+.mainhome{
+    overflow: hidden;
+}
+.comp2{
+    margin: 30px;
+    padding: 5px;
+    
+}
+.para1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-stretch: ultra-condensed;
+}
+.para-new1{
+    text-align: center;
+    font-stretch: ultra-condensed;
+}
+.head{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-size: 3em;
+    letter-spacing: -2px;
+    margin: -10px;
+    margin-top: -27px;
+}
+.butt{
+    align-items: center;
+    justify-items: center;
+}
+.butt{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    margin: 20px;
+    
+}
+.butt button{
+    padding: 10px;
+    font-weight: 400;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    width: 19%;
+    outline: none;
+    border-width: none;
+}
+.top{
+    margin-left: 33px;
+}
+.img-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.first img{
+    height: 70%;
+    width: 80%;
+}
+.second{
+    margin-left: -140px;
+}
+.second img{
+   
+    height: 600px;
+    width: 500px;
+    
+}
+
+.top {
+    position: absolute;
+    top: 1240px;
+    left: 60px;
+    color: white;
+    line-height: 2px;
+}
+.bottom{
+    position: absolute;
+    left: 600px;
+    bottom: -825px;
+    color: white;
+    line-height: 2px;
+}
+.c4{
+    padding: 5px;
+    width: 150px;
+    border-radius: 60px;
+    opacity: 0.8;
+    position: static;
+}
+.comp5 img{margin: 5px;
+    position: relative;
+    width:100%;
+    object-fit: contain;
+}
+.firstp{
+    font-size: 22px;
+}
+.comp6 img{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+.data{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.para{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: -3px;
+    font-size: 0.9em;
+    text-align: center;
+}
+.para2{
+    
+    font-size: 0.9em;
+    color: gray;
+    height: px;
+}
+.comp7 img{
+    width: 1090px;
+}
+.links{
+    text-align: center;
+}
+.banner{
+    font-size: 3em;
+    word-spacing: -1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    
+}
+.comp7 button{
+    padding: 10px;
+    width: 5.5em;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+.comp7 img{
+    width: 1090px;
+}
+.links{
+    text-align: center;
+}
+.banner{
+    font-size: 3em;
+    word-spacing: -1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    
+}
+.comp7 button{
+    padding: 10px;
+    width: 5.5em;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+.comp8-header{
+    font-size: 1.2em;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.category-section{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.boy1 img{
+    width: 420px;
+    height: 450px;
+    position: relative;
+}
+.girl img{
+    width: 420px;
+    height: 450px;
+    position: relative;
+}
+.boy2 img{
+    width: 420px;
+    height: 450px;
+    position: relative;
+}
+.common{
+    padding: 10px;
+    border-radius: 20px;
+    width: 80px;
+    background-color: white;
+    cursor: pointer;
+    
+}
+.men{
+    position: absolute;
+    left: 60px;
+    bottom: -3330px;
+    border: none;
+}
+.women{
+    position: absolute;
+    left: 500px;
+    bottom: -3330px;
+    border: none;
+}
+.kid{
+    position: absolute;
+    left: 900px;
+    bottom: -3330px;
+    border: none;
+}
+.tables{
+    margin-top: 40px;
+}
+table{
+    display: inline;
+    border-spacing: 10px;
+    margin: 10%;
+    text-align: center;
+    
+    
+
+}
+th{
+    text-align: left;
+    padding-left: 80px;
+    padding-bottom: 10px;
+    font-weight: 400;
+
+}
+td{
+    text-align: left;
+    padding-left: 80px;
+    font-weight: 200;
+    color: grey;
+}
+.comp6{
+    overflow: hidden;
+}

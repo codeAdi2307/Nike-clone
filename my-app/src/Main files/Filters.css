@@ -1,0 +1,87 @@
+.left{
+    display: flex;
+    flex-direction: column;
+}
+.container1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px;
+    background-color: rgb(227, 219, 219);
+    border-radius: 20px;
+    padding: 5px;
+}
+.container1 select{
+    height: 1.7em;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    font-weight: 500;
+}
+.container1 h1{
+    font-size: 1.5em;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+.container2{
+    width: 250px;
+    background-color: rgb(227, 219, 219);
+    height: 400px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+  
+}
+.filter-icon{
+    text-align: center;
+    margin-top: 0;
+    font-size: 1.5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Categories{
+    padding: 5px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.range{
+   padding: 5px;
+   background-color: white;
+   border-radius: 5px;
+   margin-bottom: 20px;
+}
+.discount{
+    padding: 5px;
+    border-radius: 20px;
+    width: auto ;
+    outline: none;
+    margin-bottom: 10px;
+}
+.rating{
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.size select {
+   width: auto ;
+   border-radius: 20px;
+   outline: none;
+   margin-bottom: 20px;
+}
+.container3 img{
+    width: 250px;
+    border-radius: 8px;
+    
+}
+.type{
+    font-size: 1.3em;
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.amount{
+    font-size: 1.8em;
+    font-style: italic;
+    font-weight: 900;
+}
+.price{
+    line-height: 8px;
+}
